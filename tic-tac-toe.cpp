@@ -14,7 +14,7 @@ int main() {
 	int playerTurn(1);
 	bool gameOver(true);
 
-	// Main game loop 
+	// Main game loop
 	do {
         system("cls");
 		// Print board
